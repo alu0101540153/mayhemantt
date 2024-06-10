@@ -7,7 +7,7 @@
 <defs>
 <linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="32" gradientUnits="userSpaceOnUse">
 <stop stop-color="#BBBBBB" stop-opacity="0.1"/>
-<stop offset="1" stop-opacity="0.1"/>
+<stop offset="1" stop-opacity="0.1"/>sdf
 </linearGradient>
 </defs>
 </svg>
